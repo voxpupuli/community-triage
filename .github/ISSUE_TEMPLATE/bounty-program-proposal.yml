@@ -1,0 +1,22 @@
+---
+name: Bounty Program Proposal
+description: Raise a new proposal for the Vox Pupuli Bounty Program
+labels: ["bounty"]
+projects: ["voxpupuli/12"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Take a look at our [documentation](https://github.com/voxpupuli/community-triage/wiki/Vox-Pupuli-Bounty-Program) and the [project board](https://github.com/orgs/voxpupuli/projects/12/views/1).
+  - type: textarea
+    attributes:
+      label: body
+      value: |
+        # Explanation
+        <!--- Explain why you raise this proposal. Which benefit does it provide and to whom? --->
+
+        # Implementation
+        <!--- If possible, outline as precise as possible how the proposal can be implemented --->
+
+        # Validation
+        <!--- Document how someone can verify that the proposal was implemented successfully --->
